@@ -1,0 +1,15 @@
+# Paper manuscript and design notes (not part of the research code)
+paper/
+Mitigating Catastrophic Technological Risk*.md
+
+# Development diagnostics / scratch
+diag_*.jl
+smoke_test.jl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS metadata
+.DS_Store
+*.Zone.Identifier

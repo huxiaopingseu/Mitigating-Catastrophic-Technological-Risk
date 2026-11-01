@@ -1,0 +1,9 @@
+parameter,low,baseline,high,pcrit_low,pcrit_high
+memory rate γ,0.1,0.3,0.5,0.006,0.005
+KOL amplification α,0.5,1.5,2.5,0.006,0.003
+panic weight w_p,0.2,0.6,1.0,0.004,0.004
+base tolerance τ_0,0.5,0.7,0.9,0.003,0.006
+panic probability q_P,0.4,0.65,0.9,0.004,0.004
+churn probability q_C,0.1,0.25,0.5,0.004,0.003
+recovery ratio r,0.2,0.4,0.6,0.005,0.005
+KOL boost κ,0.5,1.0,2.0,0.005,0.005
